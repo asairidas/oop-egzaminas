@@ -28,6 +28,7 @@
             "command": "g++",
             "args": [
                 "main.cpp",
+                "funkcijos.cpp",
                 "-o",
                 "main_${input:optimizationLevel}"
             ],
@@ -43,6 +44,7 @@
             "args": [
                 "-g",
                 "main.cpp",
+                "funkcijos.cpp",
                 "-o",
                 "main"
             ],
