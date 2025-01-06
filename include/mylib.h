@@ -21,6 +21,9 @@
 #include <stdexcept>
 #include <string>
 #include <vector>
+#include <cstddef>
+#include <cstring>
+#include <utility>
 
 using namespace std;
 
